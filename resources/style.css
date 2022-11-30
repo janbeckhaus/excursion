@@ -1,1 +1,5 @@
 body{background-color: blue;}
+
+header{width:50%; margin: 0px auto; background-color: white; padding: 20px; text-align: center;}
+.main{width: 70%; margin: 0px auto; background-color: red; text-align: center; color: white; padding: 70px;}
+footer{width: 50%; margin:0px auto; background-color:cyan; text-align:center; padding:20px; }
